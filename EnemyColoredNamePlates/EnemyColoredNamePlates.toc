@@ -1,0 +1,7 @@
+## Interface: 20506
+## Title: Enemy Colored Name Plates
+## Notes: Colors enemy player nameplate health bars by class.
+## Author: Zevgor
+## Version: 1.0
+
+EnemyColoredNamePlates.lua
