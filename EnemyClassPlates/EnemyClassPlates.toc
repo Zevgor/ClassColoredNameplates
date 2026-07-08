@@ -1,7 +1,0 @@
-## Interface: 20505
-## Title: Enemy Class Plates
-## Notes: Colors enemy player nameplate health bars by class.
-## Author: Zevgor
-## Version: 1.0
-
-EnemyClassPlates.lua
