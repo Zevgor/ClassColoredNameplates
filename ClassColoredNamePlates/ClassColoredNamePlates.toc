@@ -1,0 +1,8 @@
+## Interface: 20506
+## Title: Class Colored Nameplates
+## Notes: Colors player nameplate health bars by class for enemies and/or friendly players.
+## Author: Zevgor
+## Version: 1.1
+## SavedVariables: ClassColoredNamePlatesDB
+
+ClassColoredNamePlates.lua
